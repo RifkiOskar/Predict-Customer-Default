@@ -19,9 +19,9 @@ Project ini membutuhkan numpy, pandas, matplotlib, seaborn, sklearn, imblearn, x
 Proses yang kami lakukan secara garis besar adalah:
 
 1. EDA
-Descriptive Statistics
-Univariate Analysis
-Multivariate Analysis
+- Descriptive Statistics
+- Univariate Analysis
+- Multivariate Analysis
 
 2. Preprocessing
 - Data Cleansing
