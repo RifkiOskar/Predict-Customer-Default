@@ -24,10 +24,10 @@ Univariate Analysis
 Multivariate Analysis
 
 2. Preprocessing
-Data Cleansing
-Feature Encoding
-Feature Engineering
-Feature transformation: BoxCox Standarization
+- Data Cleansing
+- Feature Encoding
+- Feature Engineering
+- Feature transformation: BoxCox Standarization
 
 3. Modeling
 Menggunakan XGBoost
